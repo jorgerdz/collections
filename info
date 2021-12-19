@@ -1,0 +1,1 @@
+npx envinfo --system --binaries --browsers --npmPackages "{svelte,@sveltejs/*,vite}"

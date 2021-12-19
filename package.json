@@ -1,0 +1,20 @@
+{
+  "name": "sveltekit-template",
+  "version": "1.0.0",
+  "description": "svelte learning project",
+  "scripts": {
+    "start": "svelte-kit dev --host",
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@sveltejs/kit": "next",
+    "svelte": "3.40.1"
+  },
+  "type": "module",
+  "keywords": [],
+  "dependencies": {
+    "firebase-admin": "*"
+  }
+}
