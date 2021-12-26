@@ -60,6 +60,7 @@
 
 <ul>
   <li><a href="collection/1">1.</a></li>
+  <li><a href="collection/playlists">playlists.</a></li>
 </ul>
 
 <Counter msg="Hello" notmsg="CodeSandBox" />

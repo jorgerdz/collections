@@ -1,0 +1,564 @@
+{
+  "name": "Playlists",
+  "url": "",
+  "items": [
+    {
+      "name": "12/21",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2731a9d583a74113d611ab82d5dab67616d0000b27337f91d30004d37860104741fab67616d0000b273685863e19e4ec9d905ec8430ab67616d0000b273bbaaa8bf9aedb07135d2c6d3",
+      "url": "https://open.spotify.com/playlist/2gkYz8kAqqW4xs3cooBYqf",
+      "id": "2gkYz8kAqqW4xs3cooBYqf"
+    },
+    {
+      "name": "11/21",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27346b4fb5f6f0f1c4b6c3b210aab67616d0000b2735edff2199029073fdbb4070aab67616d0000b2737e1710c3697b889bfa742b82ab67616d0000b273e5cc34c45a829e0dad096157",
+      "url": "https://open.spotify.com/playlist/7gYUWRa2SJx5TtFcaJmZAh",
+      "id": "7gYUWRa2SJx5TtFcaJmZAh"
+    },
+    {
+      "name": "10/21",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27301f7cb0d00486a555b8bf5e6ab67616d0000b2731f7a2e2ff0938844a8a3bce4ab67616d0000b2732257279ce23960f8761e7daaab67616d0000b273acddc5a09b8cb4730995b60a",
+      "url": "https://open.spotify.com/playlist/3Fbz0aeDgrg1wF2RuU6rez",
+      "id": "3Fbz0aeDgrg1wF2RuU6rez"
+    },
+    {
+      "name": "9/21",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27340efb659ec9f25069837f6d9ab67616d0000b273445918240866cb972f5599f6ab67616d0000b27360ac7fff16a6ad8515464090ab67616d0000b273a4499cf37a6fe4ff043dc9f2",
+      "url": "https://open.spotify.com/playlist/676sghCOJNXKM8ogvwdron",
+      "id": "676sghCOJNXKM8ogvwdron"
+    },
+    {
+      "name": "8/21",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2732a038d3bf875d23e4aeaa84eab67616d0000b27366501fe475832247c3d6c70eab67616d0000b273a078b181eb098b847b096ac5ab67616d0000b273e38e0047a708c0b56167466c",
+      "url": "https://open.spotify.com/playlist/4LFLtf1P7wEsflhKVRyUzN",
+      "id": "4LFLtf1P7wEsflhKVRyUzN"
+    },
+    {
+      "name": "7/21",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2733cee57dd0774c8d0ae6ab2f8ab67616d0000b273492d3e1acae5e204fb80eec0ab67616d0000b273a75c95d018c5d8612af018f8ab67616d0000b273b2c921d1ded90a050649feca",
+      "url": "https://open.spotify.com/playlist/7HxS8BEsd5QsL7h7Xv17Ej",
+      "id": "7HxS8BEsd5QsL7h7Xv17Ej"
+    },
+    {
+      "name": "6/21",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2736b6a802198b6513ac349c879ab67616d0000b273752b669bc63fc6e619658f44ab67616d0000b27388fef75f7883d58de07fea86ab67616d0000b273921bd0b270f311f3fe422c9a",
+      "url": "https://open.spotify.com/playlist/7h8dX3pd85w5a7odK9GWB5",
+      "id": "7h8dX3pd85w5a7odK9GWB5"
+    },
+    {
+      "name": "5/21",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2732bd5c9801b7a3faf09200456ab67616d0000b27349db833e0105a65ee7790f95ab67616d0000b273bef87f0cdfeb6acc595177f6ab67616d0000b273ce7846efcfc5dc8c0e37ba14",
+      "url": "https://open.spotify.com/playlist/7DHqwtmzrsFPZxFvLX9tP7",
+      "id": "7DHqwtmzrsFPZxFvLX9tP7"
+    },
+    {
+      "name": "4/21",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b273228734c3c5a47706ce9226bbab67616d0000b27339a21eeeee97dcc78ec52ca9ab67616d0000b27375ccf90eaefc6eb3843dc4c6ab67616d0000b273796b63c833d0fed539945adc",
+      "url": "https://open.spotify.com/playlist/4AsTpE1yB7CaWLAa6NS7D5",
+      "id": "4AsTpE1yB7CaWLAa6NS7D5"
+    },
+    {
+      "name": "3/21",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2730b02f2c1000e91f2579804abab67616d0000b2730ffaa4f75b2297d36ff1e0adab67616d0000b2732be2ebdc41f19e95ee742bb5ab67616d0000b2735dc0d85521156d1edd72a141",
+      "url": "https://open.spotify.com/playlist/5msXFyoDetAlZcIVef74ae",
+      "id": "5msXFyoDetAlZcIVef74ae"
+    },
+    {
+      "name": "2/21",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2733d1801bab3e096a93bdadf83ab67616d0000b2737002b491db4917f96f10283aab67616d0000b273bc68a2dab1d410206172f45cab67616d0000b273fb32e8b64c0ef9467bec4f09",
+      "url": "https://open.spotify.com/playlist/4doH7PJGbRciRZSSPt0YmP",
+      "id": "4doH7PJGbRciRZSSPt0YmP"
+    },
+    {
+      "name": "1/21",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2732b6ae3c3eabbe1438d740396ab67616d0000b273381bc89b16ef446567ffb4afab67616d0000b273bb4d2d1ad5de963aa043089dab67616d0000b273f0bc41c55ea325e3c779795f",
+      "url": "https://open.spotify.com/playlist/1Qjkuj521pUv79VEjbGzlM",
+      "id": "1Qjkuj521pUv79VEjbGzlM"
+    },
+    {
+      "name": "12/20",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2730a10110e4153ad3a9795a31aab67616d0000b2734a08d9f639f2bb1054f357deab67616d0000b27350325c044a822a87393597fdab67616d0000b273ece7469d5a01f91fc2e0196e",
+      "url": "https://open.spotify.com/playlist/7CxaSriVTt0butEAi8Hc65",
+      "id": "7CxaSriVTt0butEAi8Hc65"
+    },
+    {
+      "name": "11/20",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2731da64b26151d74c0dcd55e36ab67616d0000b27340f3ad7832238c288a745c57ab67616d0000b2736509541373905145b5428164ab67616d0000b273b60032872c7ae1c725cf242b",
+      "url": "https://open.spotify.com/playlist/5Z3MIv8Qqben445pGfx8dQ",
+      "id": "5Z3MIv8Qqben445pGfx8dQ"
+    },
+    {
+      "name": "10/20",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2731070095e88dce90a090171b5ab67616d0000b273a2185313f8bbc2baacdc524cab67616d0000b273bdfaf3cbcbc8a04abf63b4d4ab67616d0000b273c7ad871d7b79fca3d73e4e87",
+      "url": "https://open.spotify.com/playlist/1Za9uFSp84aayWXRB3Dlgh",
+      "id": "1Za9uFSp84aayWXRB3Dlgh"
+    },
+    {
+      "name": "9/20",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2735f4269ee2c76394d8f3d1309ab67616d0000b2738cd67b130ae06d456b493d1cab67616d0000b2739eafe9c2c6c8c31be48728d9ab67616d0000b273cb18d8c0017f6ef8df8734c8",
+      "url": "https://open.spotify.com/playlist/083sDo8Fg2SO5rXDmJh51C",
+      "id": "083sDo8Fg2SO5rXDmJh51C"
+    },
+    {
+      "name": "8/20",
+      "img": "https://i.scdn.co/image/ab67706c0000bebb7bb288ae8039223676ceeedf",
+      "url": "https://open.spotify.com/playlist/5sX0AiBChLAq7kuJyuODjl",
+      "id": "5sX0AiBChLAq7kuJyuODjl"
+    },
+    {
+      "name": "7/20",
+      "img": "https://i.scdn.co/image/ab67706c0000bebbc234068ef27922377d6e2d88",
+      "url": "https://open.spotify.com/playlist/0XLfCw8Z3mrOAKxqhJQVWx",
+      "id": "0XLfCw8Z3mrOAKxqhJQVWx"
+    },
+    {
+      "name": "6/20",
+      "img": "https://i.scdn.co/image/ab67706c0000bebb648f4ec933572527f825dd5c",
+      "url": "https://open.spotify.com/playlist/1aPXdVUWTfTwbKM0tlc6OE",
+      "id": "1aPXdVUWTfTwbKM0tlc6OE"
+    },
+    {
+      "name": "5/20",
+      "img": "https://i.scdn.co/image/ab67706c0000bebb592d6174defd6a22ae55cf28",
+      "url": "https://open.spotify.com/playlist/6NDZxV93jly0UwrdBMQyPL",
+      "id": "6NDZxV93jly0UwrdBMQyPL"
+    },
+    {
+      "name": "4/20",
+      "img": "https://i.scdn.co/image/ab67706c0000bebbeaf2cbcf2e76d46cd614e615",
+      "url": "https://open.spotify.com/playlist/6K2XjU8HJr4SwcpJvZdwmh",
+      "id": "6K2XjU8HJr4SwcpJvZdwmh"
+    },
+    {
+      "name": "3/20",
+      "img": "https://i.scdn.co/image/ab67706c0000bebb102d65bff388a2eb8062faee",
+      "url": "https://open.spotify.com/playlist/24XhSNFlzpwpSiqLgybyX4",
+      "id": "24XhSNFlzpwpSiqLgybyX4"
+    },
+    {
+      "name": "2/20",
+      "img": "https://i.scdn.co/image/ab67706c0000bebbe4ae26c674e1ac355b16fa6f",
+      "url": "https://open.spotify.com/playlist/6kRXLk4Z6oAN12xjcl7Iky",
+      "id": "6kRXLk4Z6oAN12xjcl7Iky"
+    },
+    {
+      "name": "Wilco @ Teatro Metropólitan (1/25/2020)",
+      "img": "https://i.scdn.co/image/ab67706c0000bebbe0aa7de87aead402d2f96a6e",
+      "url": "https://open.spotify.com/playlist/2uXYy2RSpPgeiZZoooh5ZD",
+      "id": "2uXYy2RSpPgeiZZoooh5ZD"
+    },
+    {
+      "name": "1/20 ",
+      "img": "https://i.scdn.co/image/ab67706c0000bebb3cacc2ee721f1ce97498d3c4",
+      "url": "https://open.spotify.com/playlist/5p4c7NCFf2ZW6WFMC3EJhW",
+      "id": "5p4c7NCFf2ZW6WFMC3EJhW"
+    },
+    {
+      "name": "20/20",
+      "img": "https://i.scdn.co/image/ab67616d0000b27309aac24602df64beba654653",
+      "url": "https://open.spotify.com/playlist/6nljlUYZYRKKt645t0xAR7",
+      "id": "6nljlUYZYRKKt645t0xAR7"
+    },
+    {
+      "name": "12/19",
+      "img": "https://i.scdn.co/image/ab67706c0000bebb1b34e5fb05d1bc3ededc8e0c",
+      "url": "https://open.spotify.com/playlist/5vtJ0sPiAjqQijXAgffrhc",
+      "id": "5vtJ0sPiAjqQijXAgffrhc"
+    },
+    {
+      "name": "11/19",
+      "img": "https://i.scdn.co/image/ab67706c0000bebb31eb1165285afeb5976bb902",
+      "url": "https://open.spotify.com/playlist/7vhXcmHDYj6LQHJmIqDofB",
+      "id": "7vhXcmHDYj6LQHJmIqDofB"
+    },
+    {
+      "name": "10/19",
+      "img": "https://i.scdn.co/image/ab67706c0000bebbb576805b8ddcfa46922c65d7",
+      "url": "https://open.spotify.com/playlist/6dnAP32XxDYsDlFYm6WguY",
+      "id": "6dnAP32XxDYsDlFYm6WguY"
+    },
+    {
+      "name": "9/19",
+      "img": "https://i.scdn.co/image/ab67706c0000bebb89c8ec576395cba45f97aafd",
+      "url": "https://open.spotify.com/playlist/5TGKCMKAGJBvH7AnYb6304",
+      "id": "5TGKCMKAGJBvH7AnYb6304"
+    },
+    {
+      "name": "8/19",
+      "img": "https://i.scdn.co/image/ab67706c0000bebb9188546309c7043f71a5de7a",
+      "url": "https://open.spotify.com/playlist/1zksz4arwDAJ0cqMPptmMp",
+      "id": "1zksz4arwDAJ0cqMPptmMp"
+    },
+    {
+      "name": "7/19",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b273163321b9278e999adf77e0c1ab67616d0000b2733bf3b1061f9f703b0f6bf532ab67616d0000b2735c54eca4b1b941dd3524b318ab67616d0000b273ce419814b47c3386d89257ea",
+      "url": "https://open.spotify.com/playlist/4bWy9I1m8juV2PjkwI5EZo",
+      "id": "4bWy9I1m8juV2PjkwI5EZo"
+    },
+    {
+      "name": "6/19",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27320e4a11cac0c2ccafb9da741ab67616d0000b2735a7dda7bedf764627a86fa20ab67616d0000b27372ca15b8637acbc7d15ff5baab67616d0000b2739c68550ae13f09463fd89b57",
+      "url": "https://open.spotify.com/playlist/7ifL0uUTxcqUUfoA8c18tf",
+      "id": "7ifL0uUTxcqUUfoA8c18tf"
+    },
+    {
+      "name": "5/19",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27355fbe8615d19257dbc92d385ab67616d0000b273595101c281d7e229e1f0e6c4ab67616d0000b27390c7c263a212a2fb1a25bee5ab67616d0000b273daf19ee32be2d4917c266b09",
+      "url": "https://open.spotify.com/playlist/3WC0e5wh04PBtVCrovO989",
+      "id": "3WC0e5wh04PBtVCrovO989"
+    },
+    {
+      "name": "4/19",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27314cf5065fd6f7b7311f31a99ab67616d0000b2739dd63987b2d55059287135dbab67616d0000b273cfacf4141520fdf2aefd8c1cab67616d0000b273d26bc8655d6132c9e243f82e",
+      "url": "https://open.spotify.com/playlist/0p0Ku4LfwgvJBAnyrwl8BG",
+      "id": "0p0Ku4LfwgvJBAnyrwl8BG"
+    },
+    {
+      "name": "3/19",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2733727cd75cb1b05c8230d3ae0ab67616d0000b2733c31a0a50971259479e99b2eab67616d0000b2733cc1bee53a5b3149336af961ab67616d0000b27368eb067e61020bbed26579d7",
+      "url": "https://open.spotify.com/playlist/2zGImAaQHxCQd222PQDEZU",
+      "id": "2zGImAaQHxCQd222PQDEZU"
+    },
+    {
+      "name": "2/19",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27333e3c504a10c5403ec73f8cbab67616d0000b27390aad1d96f5394861be9dcc7ab67616d0000b273a6cb228fb0bb6d321b283ee7ab67616d0000b273af0de52ff95a42354790e21f",
+      "url": "https://open.spotify.com/playlist/1DMZestaOfzJyF4WbcrG3n",
+      "id": "1DMZestaOfzJyF4WbcrG3n"
+    },
+    {
+      "name": "1/19",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b273487bfb84267390d5a526ead7ab67616d0000b27354823b660c0985479ea17f08ab67616d0000b273b6cb852f5cdb1443295484feab67616d0000b273dc9c3f5643da6ad36ecbf11e",
+      "url": "https://open.spotify.com/playlist/1vPQuuhhggz6zSpTyTcHG3",
+      "id": "1vPQuuhhggz6zSpTyTcHG3"
+    },
+    {
+      "name": "12/18",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2730306cdd60cf3c84ceee37aceab67616d0000b27368fdf5ea33bbcf94748bfd00ab67616d0000b273959ef9a259026e5e972df80cab67616d0000b273d02200eb2f03122b796e322a",
+      "url": "https://open.spotify.com/playlist/5wN1a9SRYoarDozZgRu850",
+      "id": "5wN1a9SRYoarDozZgRu850"
+    },
+    {
+      "name": "11/18",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27374ffdd29cc4898e8ed01d747ab67616d0000b273a3cfe10dca3c0b2347866a63ab67616d0000b273af0de52ff95a42354790e21fab67616d0000b273cb9d3b2408a59af7780a7f80",
+      "url": "https://open.spotify.com/playlist/4imFcT0rQvpNBUs3O4Q0QB",
+      "id": "4imFcT0rQvpNBUs3O4Q0QB"
+    },
+    {
+      "name": "10/18",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2735a46f306324e85c094002fdfab67616d0000b2735f67bc8b07bb2f11fb08ba04ab67616d0000b273990d9c389062d31197b56ccaab67616d0000b273a3cfe10dca3c0b2347866a63",
+      "url": "https://open.spotify.com/playlist/1ZoXhYD1fs5CpkadwrH3RT",
+      "id": "1ZoXhYD1fs5CpkadwrH3RT"
+    },
+    {
+      "name": "09/18",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27331e4d16042434987c399acd7ab67616d0000b27388fef75f7883d58de07fea86ab67616d0000b273abca6b34e370af95f3b926bdab67616d0000b273f1a5d354f8b28f57b1e9b3ad",
+      "url": "https://open.spotify.com/playlist/186Jt25ZgmLNi6X2g86pSM",
+      "id": "186Jt25ZgmLNi6X2g86pSM"
+    },
+    {
+      "name": "08/18",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2731ae64d2d47dab2ec779f2b5bab67616d0000b27378378dcaccec9e965e0d6351ab67616d0000b273a115a38eb6e0bdf47d2d7adbab67616d0000b273ba07f6d4317e9fbb2af9011c",
+      "url": "https://open.spotify.com/playlist/7o8FBXhPselUB4307TTIui",
+      "id": "7o8FBXhPselUB4307TTIui"
+    },
+    {
+      "name": "07/18",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2734a8007933fab9c774ae4cc83ab67616d0000b2735edff2199029073fdbb4070aab67616d0000b273ba389c0c59374ac821ace8a9ab67616d0000b273f907de96b9a4fbc04accc0d5",
+      "url": "https://open.spotify.com/playlist/2SWEsAoT1sKzXZNgsXb6OK",
+      "id": "2SWEsAoT1sKzXZNgsXb6OK"
+    },
+    {
+      "name": "06/18",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2730cd942c1a864afa4e92d04f2ab67616d0000b2731565137eb31290293b0eb306ab67616d0000b27326d608f6c07d2a67acef2044ab67616d0000b273811b222576f68fd5c23a498b",
+      "url": "https://open.spotify.com/playlist/0tDH0X9oCSaKlcAu8a9Vky",
+      "id": "0tDH0X9oCSaKlcAu8a9Vky"
+    },
+    {
+      "name": "05/18",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2737a4ffc6739a18161ddf02826ab67616d0000b27390b4e1905b1fc48c537ec053ab67616d0000b273f1297d75af3140afebb941b2ab67616d0000b273ff0e2131c94b679e8860c280",
+      "url": "https://open.spotify.com/playlist/0TctjalC5LhkBTgKFI8xqu",
+      "id": "0TctjalC5LhkBTgKFI8xqu"
+    },
+    {
+      "name": "04/18",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2730af2276ae66a42e73eb07683ab67616d0000b2732e35d25eb7288830d5540484ab67616d0000b273c5bb26cff830612eebacf92eab67616d0000b273eb796c37357c9a9c3dc5aea1",
+      "url": "https://open.spotify.com/playlist/7p25DtnY1imUdETl8J1Oaj",
+      "id": "7p25DtnY1imUdETl8J1Oaj"
+    },
+    {
+      "name": "03/18",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2730af2276ae66a42e73eb07683ab67616d0000b2733bc926c49cd6df40a681039fab67616d0000b2735b3865880c7946fd6283db25ab67616d0000b273db1e9f77cf3f4e51600a3ffc",
+      "url": "https://open.spotify.com/playlist/4DhgNzvIyjR4UNidnTf0WB",
+      "id": "4DhgNzvIyjR4UNidnTf0WB"
+    },
+    {
+      "name": "02/18",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27366488cd93fe8b2f32aa8e06aab67616d0000b2737687196336a0c390bf2e252fab67616d0000b273bc5dff3defa18523f819d347ab67616d0000b273d1a38cd9454038b76c619d32",
+      "url": "https://open.spotify.com/playlist/6vzzq8EvZrm20Jmf6lI6A1",
+      "id": "6vzzq8EvZrm20Jmf6lI6A1"
+    },
+    {
+      "name": "01/18",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27350a99e0b79c2937ffec9bc02ab67616d0000b27397d9ea29976bf3f8ff1226faab67616d0000b273f300fbb3b109ade242bd250fab67616d0000b273f539f9a64d5603185f70e02b",
+      "url": "https://open.spotify.com/playlist/5BTVnx72rjRHRWI9vMugS5",
+      "id": "5BTVnx72rjRHRWI9vMugS5"
+    },
+    {
+      "name": "12/17",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2731dd013b79076d4543a3119b2ab67616d0000b27355e83ec48590149240b381ddab67616d0000b2736482d9aea4811f6c736383caab67616d0000b273d1a261d47b013292113441b2",
+      "url": "https://open.spotify.com/playlist/71xKmUUI54ZqMJlKVc6C5C",
+      "id": "71xKmUUI54ZqMJlKVc6C5C"
+    },
+    {
+      "name": "11/17",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2730c361a704fbbd3b5a429af6dab67616d0000b2739613b173f5abab5c2b138c7eab67616d0000b2739b67a7d027ada51aad303087ab67616d0000b273c32e12829fb960100a3257c6",
+      "url": "https://open.spotify.com/playlist/133ZualdqwP6fSGi5byhVR",
+      "id": "133ZualdqwP6fSGi5byhVR"
+    },
+    {
+      "name": "10/17",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2733cff826036f04f1ff946453aab67616d0000b2733f31769b727102837cb32a63ab67616d0000b27379f6d1900a2f223d20de6c62ab67616d0000b273846a7ce0fe1bb66a733daefd",
+      "url": "https://open.spotify.com/playlist/7JnnP0lMNkzqD29eb2QFkb",
+      "id": "7JnnP0lMNkzqD29eb2QFkb"
+    },
+    {
+      "name": "09/17",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2736827146a676dafc0357fa665ab67616d0000b273945696d01c650eeade335ac9ab67616d0000b273a9f9f499d82111f429413264ab67616d0000b273b0a48655a55e6d5b499e3d92",
+      "url": "https://open.spotify.com/playlist/6XafR2cw9TOZBviIrv2b2f",
+      "id": "6XafR2cw9TOZBviIrv2b2f"
+    },
+    {
+      "name": "08/17",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b273820cfd36dadb34d48da86b0cab67616d0000b273cd796805da54418a7545e06cab67616d0000b273f1a8f598e5ef9673cb4d6981ab67616d0000b273f96e7e41686c1b9d4cb54a43",
+      "url": "https://open.spotify.com/playlist/6d1iwgpsUI2S7gNqk163eC",
+      "id": "6d1iwgpsUI2S7gNqk163eC"
+    },
+    {
+      "name": "07/17",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2730f14a4f77129c75ae50809d4ab67616d0000b273607ef0cce8182849473b6c02ab67616d0000b2739103a263c160613d64b1084bab67616d0000b273e9e262c288b2e13e8f81d2ae",
+      "url": "https://open.spotify.com/playlist/3Y9puEU3x41irH5guVT2M4",
+      "id": "3Y9puEU3x41irH5guVT2M4"
+    },
+    {
+      "name": "06/17",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2733d0b7a7bb2acbda01162225cab67616d0000b2738a213737c653274ded9727d9ab67616d0000b273d3c1a5fabc51fd62e18829faab67616d0000b273dc41d79e43b9e03d14b57889",
+      "url": "https://open.spotify.com/playlist/3I5FLgVq3Mg23JfnwxBhKr",
+      "id": "3I5FLgVq3Mg23JfnwxBhKr"
+    },
+    {
+      "name": "05/17",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27330db747148dc536f1a6249dcab67616d0000b27386e09ef3ccefded26c85bc8cab67616d0000b273945696d01c650eeade335ac9ab67616d0000b273ea750273195ec710a0914810",
+      "url": "https://open.spotify.com/playlist/2y7Kf6QtBYBRp5GRgHu9PC",
+      "id": "2y7Kf6QtBYBRp5GRgHu9PC"
+    },
+    {
+      "name": "04/17",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27350d2576d1274c28ce2d1599dab67616d0000b2738603648615dbe43d11198c0eab67616d0000b273946e15b2568aa2e51eab1d3bab67616d0000b273b4c5a76ee45bc69ba5289539",
+      "url": "https://open.spotify.com/playlist/6GS6yI87z2MXlcK9XKJZ1o",
+      "id": "6GS6yI87z2MXlcK9XKJZ1o"
+    },
+    {
+      "name": "03/17",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27349acbacd567095af7ed6ade4ab67616d0000b273624cd36769c2d14669fa448cab67616d0000b273bdc6bc37f3812d2a834bffbaab67616d0000b273ee88b7f1e2914a2f8ff1d47a",
+      "url": "https://open.spotify.com/playlist/1STbcmeSB6KJNdHIAjrqoE",
+      "id": "1STbcmeSB6KJNdHIAjrqoE"
+    },
+    {
+      "name": "02/17",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2732e74e5926952e461ea94f0e3ab67616d0000b27333089911fdfcb1a8c91e5db3ab67616d0000b27350d2576d1274c28ce2d1599dab67616d0000b273d18fa8f63707115cb1b38f65",
+      "url": "https://open.spotify.com/playlist/150YUGg93YSKo4Ft7l2lp5",
+      "id": "150YUGg93YSKo4Ft7l2lp5"
+    },
+    {
+      "name": "01/17",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2731b4bbcd38752977b515b9e75ab67616d0000b2734cc65c5ce55234c548a79d9dab67616d0000b2734e70f8402f4a146dd0c64632ab67616d0000b2739f36bf899dff2df533a84a90",
+      "url": "https://open.spotify.com/playlist/0weHW6m5Vu7HaOShvjrEbC",
+      "id": "0weHW6m5Vu7HaOShvjrEbC"
+    },
+    {
+      "name": "12/16",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b273303d021462737d3c0b0f62a7ab67616d0000b2739037ed90e11d724ebf3ca0dbab67616d0000b273945cb645e63d13184ea60882ab67616d0000b273e6278d45021b2d4f17535b09",
+      "url": "https://open.spotify.com/playlist/7Ji1sfLPgjNahVbGyYJkeG",
+      "id": "7Ji1sfLPgjNahVbGyYJkeG"
+    },
+    {
+      "name": "11/16",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2730297882812af4b36682c2090ab67616d0000b2733d1801bab3e096a93bdadf83ab67616d0000b2736b3d417dd6a2f0cc0b913361ab67616d0000b273d55a2ec4f9506b6417a93dee",
+      "url": "https://open.spotify.com/playlist/0H2a90SysKV7cUhDPIEFCH",
+      "id": "0H2a90SysKV7cUhDPIEFCH"
+    },
+    {
+      "name": "10/16",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b273237b4c5c6ea6b61473bdc6edab67616d0000b27349475edb3246013fcb59e903ab67616d0000b273d5fb287d59c098e0d74e3dc6ab67616d0000b273d7f5afe93dd997671be4fa25",
+      "url": "https://open.spotify.com/playlist/54P7ugmm0LVPnbptpCBeL8",
+      "id": "54P7ugmm0LVPnbptpCBeL8"
+    },
+    {
+      "name": "9/16",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2733aab37beee0e9198e3c324e7ab67616d0000b2735954a6441cc1d88011841d1cab67616d0000b2738a95ccac716bb76b142d3ab9ab67616d0000b273a7cdf05a624f46353e3b9d73",
+      "url": "https://open.spotify.com/playlist/6JV0lvAqdWOQRFGZ2kbhCR",
+      "id": "6JV0lvAqdWOQRFGZ2kbhCR"
+    },
+    {
+      "name": "8/16",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b273164f25e745cc828b9825db7bab67616d0000b27383cd9f1352bc315536480be6ab67616d0000b27393ec22f2c869cb5623fb0acbab67616d0000b273cdcae0c55d8a706de23cf2da",
+      "url": "https://open.spotify.com/playlist/50H4hD9oTDniWYiItbz55M",
+      "id": "50H4hD9oTDniWYiItbz55M"
+    },
+    {
+      "name": "7/16",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b273087255518781845b84bc8f92ab67616d0000b2731cad8e652d9f1268197e67f2ab67616d0000b273479d37e1686de230a699ab40ab67616d0000b27383cd9f1352bc315536480be6",
+      "url": "https://open.spotify.com/playlist/2ZAx0A6fMVZ7Nnspgo0i8R",
+      "id": "2ZAx0A6fMVZ7Nnspgo0i8R"
+    },
+    {
+      "name": "6/16",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27317b46581df1519c393796cacab67616d0000b27376df27e606d167440dc48a2cab67616d0000b27378771bf8c1270fdc12fe5c7aab67616d0000b27383cd9f1352bc315536480be6",
+      "url": "https://open.spotify.com/playlist/5BqyUSZwRNsULJOhnJgMYw",
+      "id": "5BqyUSZwRNsULJOhnJgMYw"
+    },
+    {
+      "name": "5/16",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27337eab3751aaeacab0989ec33ab67616d0000b27345643f5cf119cbc9d2811c22ab67616d0000b273bd4c237c04735257dd64c510ab67616d0000b273bde8dfd1922129f3d9e3732f",
+      "url": "https://open.spotify.com/playlist/2Y8L4XcI2dIt8liP6fz59F",
+      "id": "2Y8L4XcI2dIt8liP6fz59F"
+    },
+    {
+      "name": "4/16",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27329eb9ad9b9af34bbb54eb053ab67616d0000b27377f120f4088799affc393c4cab67616d0000b2738603648615dbe43d11198c0eab67616d0000b273de4535ee119af54df0dd8913",
+      "url": "https://open.spotify.com/playlist/1BD6WYcc9o46R3xIP53AFH",
+      "id": "1BD6WYcc9o46R3xIP53AFH"
+    },
+    {
+      "name": "03/16",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27323bc0c419603b7e81662e45dab67616d0000b2735ae87fa963a1f370bf860a83ab67616d0000b2739dd71f4b67709fca6dcc7849ab67616d0000b273f1a5d354f8b28f57b1e9b3ad",
+      "url": "https://open.spotify.com/playlist/6spOKgz5ooOuZVv9EwdyTB",
+      "id": "6spOKgz5ooOuZVv9EwdyTB"
+    },
+    {
+      "name": "Ruin this Playlist (02/16)",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27309f59351ea0acc2b30e602d5ab67616d0000b273728831bebe32891897eb933aab67616d0000b2737763c5c3004079c1bf46189eab67616d0000b273f049f68321ac52ac91b4e40c",
+      "url": "https://open.spotify.com/playlist/58s9NWw591G2cdXRsljK9t",
+      "id": "58s9NWw591G2cdXRsljK9t"
+    },
+    {
+      "name": "1/16",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27352714419c869fe81fbf31a0aab67616d0000b2739d6bd2afa2987a69b7b55f72ab67616d0000b273a96e2a0f10acd67833a740a7ab67616d0000b273f68b3c37f551ffe57580755d",
+      "url": "https://open.spotify.com/playlist/0ar443F4xpS8baDLJm2nQp",
+      "id": "0ar443F4xpS8baDLJm2nQp"
+    },
+    {
+      "name": "12/15",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2731218b0d1adbc2d5f4562c1fcab67616d0000b273499959959c343367a0e1383bab67616d0000b2738a95ccac716bb76b142d3ab9ab67616d0000b2739602bb7b128f2469cf60f27d",
+      "url": "https://open.spotify.com/playlist/34vvinCfC7ujYoUy78EQfO",
+      "id": "34vvinCfC7ujYoUy78EQfO"
+    },
+    {
+      "name": "11/15",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b273842e732b778998eef17b405fab67616d0000b273c0a60253689c598d83528149ab67616d0000b273f860547bc8ba0c59df4fe2c3ab67616d0000b273fd99925fcb5fcf24703ad4b9",
+      "url": "https://open.spotify.com/playlist/6WDmxWS3ZoeXlKo7yREE1N",
+      "id": "6WDmxWS3ZoeXlKo7yREE1N"
+    },
+    {
+      "name": "9/15 - 10/15",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27316580d4b11afc55eb90c309fab67616d0000b27335fe4d58d3672cccfa9b3bbbab67616d0000b27362a1baec692cd616425c879eab67616d0000b273d20d2364b0a137d121046ed2",
+      "url": "https://open.spotify.com/playlist/0TSpp4qv0eI6R9twpBlqL6",
+      "id": "0TSpp4qv0eI6R9twpBlqL6"
+    },
+    {
+      "name": "8/15",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2734ff03e0f8b9c600b6e48b382ab67616d0000b273cc26abd8dd48f7673e495250ab67616d0000b273efac54e37eb84f1f1419b83bab67616d0000b273f988a2be314e1468ae742e85",
+      "url": "https://open.spotify.com/playlist/2EL3iX7DORWqz92awsaELX",
+      "id": "2EL3iX7DORWqz92awsaELX"
+    },
+    {
+      "name": "7/15",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2733a89018e10b9f3a9cad2e111ab67616d0000b273624cd36769c2d14669fa448cab67616d0000b2737aede4855f6d0d738012e2e5ab67616d0000b273f9288d338dd3299d90b7062f",
+      "url": "https://open.spotify.com/playlist/2KE2LLAdYH7jR5K9STtyMC",
+      "id": "2KE2LLAdYH7jR5K9STtyMC"
+    },
+    {
+      "name": "Buttholeville, Ags (6/15)",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27337db1250cf6d9a1cebb82252ab67616d0000b273624cd36769c2d14669fa448cab67616d0000b2736aa1dfa0a98baa542251df5aab67616d0000b273fb5aeb6613b8c8aa901c856e",
+      "url": "https://open.spotify.com/playlist/6oABIgvrX8RLbO1SvoxHUo",
+      "id": "6oABIgvrX8RLbO1SvoxHUo"
+    },
+    {
+      "name": "04/15",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b273198e916f4062da12ea37fdb1ab67616d0000b2736ccdcf6bb0c2383df23e6ea7ab67616d0000b273a70d49057c2d147be7807899ab67616d0000b273cdb645498cd3d8a2db4d05e1",
+      "url": "https://open.spotify.com/playlist/0zQqh7KS4bMdT5RS9dQASR",
+      "id": "0zQqh7KS4bMdT5RS9dQASR"
+    },
+    {
+      "name": "03/15",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2733137b5bcb9cc6901683c8916ab67616d0000b273b5f0f447f0b9d080d970b758ab67616d0000b273bd6737abb7b032356d5c320aab67616d0000b273f34338e9270f9c0561cf4c7e",
+      "url": "https://open.spotify.com/playlist/0TabXM0YcMdxRfBRbvaMwM",
+      "id": "0TabXM0YcMdxRfBRbvaMwM"
+    },
+    {
+      "name": "Fauna (2/15)",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2735158619d88d3d404e01ea866ab67616d0000b273ae1186757474df8f1fb5dd04ab67616d0000b273c21cf290fa62c545edd947b9ab67616d0000b273eeba9fcad195bc580feb4599",
+      "url": "https://open.spotify.com/playlist/1refRPJOdqMn5LIQPDQeEg",
+      "id": "1refRPJOdqMn5LIQPDQeEg"
+    },
+    {
+      "name": "Loon (12/14 - 1/15)",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27325b12e3030dcf540319f687eab67616d0000b2733ccf1bc021d822d91c27c8fcab67616d0000b273c968dc766f19bf57680d2b0fab67616d0000b273f792fc8b71115aaecbe90763",
+      "url": "https://open.spotify.com/playlist/5u7hmlCIYaCVknqFlDtx0r",
+      "id": "5u7hmlCIYaCVknqFlDtx0r"
+    },
+    {
+      "name": "P.M. (11/14)",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27352b0bc5b10e0a89fc285736eab67616d0000b273d3a1223248286c04e961c22aab67616d0000b273e06974454d6bbc39962808d7ab67616d0000b273ef84e90817e7388789f73502",
+      "url": "https://open.spotify.com/playlist/6T8kbei9zsRCiFNrfz5RUJ",
+      "id": "6T8kbei9zsRCiFNrfz5RUJ"
+    },
+    {
+      "name": "Rap-Rock Hits '14 (10/14)",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27338c6fbc6bc2eb2e68afb0f04ab67616d0000b2734c944ce2b054539f5d272a21ab67616d0000b27358072c9cb37a6c5a19c2018dab67616d0000b273e92e2ccb32e1b3e58766bd93",
+      "url": "https://open.spotify.com/playlist/1jgY9Q8wofhQm5LDfA6uEv",
+      "id": "1jgY9Q8wofhQm5LDfA6uEv"
+    },
+    {
+      "name": "New Croon (09/14)",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2731e0cd35e20e29cde6247e5eaab67616d0000b2736962a06c9b6a1460550380f4ab67616d0000b273ca791beebfe4c1bca9eecff3ab67616d0000b273f7207b901ad9cdbd6ea5df46",
+      "url": "https://open.spotify.com/playlist/3krO4HAFvPE9hyCinHduUL",
+      "id": "3krO4HAFvPE9hyCinHduUL"
+    },
+    {
+      "name": "Radio Godín (07/14)",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2736a83718562a786199fbdc556ab67616d0000b273e1913469a3429e63f3245f9eab67616d0000b273e51e7b7560f4af3eba9569c7ab67616d0000b273f838c147fe6089e9345972d4",
+      "url": "https://open.spotify.com/playlist/7JMmpF5qJxqnud6WD99eMp",
+      "id": "7JMmpF5qJxqnud6WD99eMp"
+    },
+    {
+      "name": "Article #1 (06/14)",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27321e7e202974e7d0ee0ec4e60ab67616d0000b27367d9cdfee7e681b4352f7c85ab67616d0000b273e1913469a3429e63f3245f9eab67616d0000b273f0bc41c55ea325e3c779795f",
+      "url": "https://open.spotify.com/playlist/03tzaHav8fM1Uw3eZA7Apm",
+      "id": "03tzaHav8fM1Uw3eZA7Apm"
+    },
+    {
+      "name": "Fairwell Transistors (05/14)",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2733593d75b8d49038844d320ffab67616d0000b27384ca2487e2c78219623a63dfab67616d0000b273ba111be6ad6c60d83ab0cf1dab67616d0000b273ca69f52416a728ebd0b9103c",
+      "url": "https://open.spotify.com/playlist/4bc5Jy8IRldHklRLEcwYiw",
+      "id": "4bc5Jy8IRldHklRLEcwYiw"
+    },
+    {
+      "name": "Supermoon (04/14)",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27311c688ebdef13f38bc9eca4fab67616d0000b27347e72a890555678660e9f269ab67616d0000b27393c21108936d823e3efe3410ab67616d0000b273a5b21e864087c7ab7f448f91",
+      "url": "https://open.spotify.com/playlist/6UI3Gm36UWf5ATYlOy2mqw",
+      "id": "6UI3Gm36UWf5ATYlOy2mqw"
+    },
+    {
+      "name": "Singles (03/14)",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b2734749e3e8832e78f03fc0ed30ab67616d0000b2737531a068d8126004a625e36fab67616d0000b2738b10aef40016a3a92cd78883ab67616d0000b273a4fc1b82e46b3439f1836472",
+      "url": "https://open.spotify.com/playlist/0hDec2uBJQVj3d6eGoNU9a",
+      "id": "0hDec2uBJQVj3d6eGoNU9a"
+    },
+    {
+      "name": "01/14",
+      "img": "https://mosaic.scdn.co/640/ab67616d0000b27328d9431e9e1816b66c2bff58ab67616d0000b2733932655a0596cd3e04f6d4e9ab67616d0000b273b4c5a76ee45bc69ba5289539ab67616d0000b273fc7ac5bae0cc63ef5e4c75b2",
+      "url": "https://open.spotify.com/playlist/1JJTtWfaSIwW757Eamg151",
+      "id": "1JJTtWfaSIwW757Eamg151"
+    }
+  ]
+}

@@ -7,8 +7,7 @@
 	  const collection = await res.json();
 	  return {
 	    props: {
-	      collection: collection,
-	      items: collection.items
+	      collection: collection
 	    }
 	  };
 
@@ -20,17 +19,14 @@
 </script>
 
 <script>
-	import Item from "/src/lib/Item.svelte"
+	import Grid from '/src/lib/Grid.svelte'
+	import DropDetector from "/src/lib/DropDetector.svelte"
+	import {createItems} from '/src/lib/stores.js'
 	export let collection;
-	export let items;
-	console.log(items)
+	export let items = createItems(collection.items)	
 </script>
 
 <div>
-	{#each collection.items as item, i}
-	{#if item}
-		<Item item={item} />
-		
-	{/if}
-{/each}
+	<DropDetector />
+	<Grid items />
 </div>

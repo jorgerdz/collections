@@ -1,31 +1,31 @@
 <div>
-	<img src={item.img} />
-	<div class="details">
-		<h1>{item.name}</h1>
-	</div>
-	<p>{item.desc}</p>
+	<a href={item.url}>
+		<img src={item.img} />
+		<div class="details">
+			<h1>{item.name}</h1>
+		</div>
+		<p>{item.desc || ""}</p>
+	</a>
 </div>
 
 <style>
-  div {
+  div a {
     display: flex;
     padding: 20px;
     max-width: 100%;
   }
-  div > img {
+  div > a > img {
     width: 50%;
   }
-  div > .details {
+  div > a > .details {
     font-family: "Courier New", Courier, monospace;
     padding: 20px;
   }
-  div > p {
-  }
   /* @media (max-width: 1000px) {
-          div > img {
-            width: 100%;
-          }
-        } */
+                            div > img {
+                              width: 100%;
+                            }
+                          } */
 </style>
 
 <script>

@@ -1,7 +1,7 @@
 {
-  "name": "sveltekit-template",
+  "name": "sveltekit-collections-final",
   "version": "1.0.0",
-  "description": "svelte learning project",
+  "description": "",
   "scripts": {
     "start": "svelte-kit dev --host",
     "dev": "svelte-kit dev",
@@ -15,6 +15,7 @@
   "type": "module",
   "keywords": [],
   "dependencies": {
+    "cheerio": "^0.22.0",
     "firebase-admin": "*"
   }
 }
