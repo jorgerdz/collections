@@ -9,23 +9,19 @@
 </div>
 
 <style>
+  div {
+    width: 100%;
+  }
   div a {
-    display: flex;
-    padding: 20px;
-    max-width: 100%;
+    display: block;
+    padding: 25px;
   }
   div > a > img {
-    width: 50%;
+    width: 100%;
   }
   div > a > .details {
     font-family: "Courier New", Courier, monospace;
-    padding: 20px;
   }
-  /* @media (max-width: 1000px) {
-                            div > img {
-                              width: 100%;
-                            }
-                          } */
 </style>
 
 <script>

@@ -1,5 +1,4 @@
 <script>
-  import Counter from "$lib/Counter.svelte";
   import Item from "$lib/Item.svelte";
   // Import the functions you need from the SDKs you need
   // import { initializeApp } from "firebase/app";
@@ -62,11 +61,3 @@
   <li><a href="collection/1">1.</a></li>
   <li><a href="collection/playlists">playlists.</a></li>
 </ul>
-
-<Counter msg="Hello" notmsg="CodeSandBox" />
-
-<style>
-  * {
-    font-family: "Courier New", Courier, monospace;
-  }
-</style>

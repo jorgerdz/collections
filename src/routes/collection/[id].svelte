@@ -19,6 +19,7 @@
 </script>
 
 <script>
+	import CollectionHero from '/src/lib/CollectionHero.svelte'
 	import Grid from '/src/lib/Grid.svelte'
 	import DropDetector from "/src/lib/DropDetector.svelte"
 	import {createItems} from '/src/lib/stores.js'
@@ -27,6 +28,7 @@
 </script>
 
 <div>
+	<CollectionHero collection={collection} />
 	<DropDetector />
-	<Grid items />
+	<Grid items={items} />
 </div>
