@@ -1,6 +1,10 @@
 {
   "name": "Playlists",
+  "desc": "lorem ipsum",
   "url": "",
+  "ordered": true,
+  "columns": "8",
+  "dark": true,
   "items": [
     {
       "name": "12/21",
