@@ -11,7 +11,11 @@ export function createItems(items) {
   _items = {
     subscribe,
     add: (item) => update(n => n.push(item)),
-    remove: (item) => update(n => n - 1)
+    remove: (item) => {
+      update(n => {
+        return n.filter(n => n != item)
+      })
+    }
   };
 
   return _items;
