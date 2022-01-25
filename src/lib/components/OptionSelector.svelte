@@ -1,6 +1,6 @@
 <script>
 import { createEventDispatcher } from 'svelte';
-import CreateCollectionForm from './CreateCollectionForm.svelte';
+import CreateItemForm from '$lib/components/CreateItemForm.svelte';
 
 export let ordered;
 export let columns;
@@ -9,7 +9,7 @@ export let dark;
 const dispatch = createEventDispatcher();
 const createNewItem = function() {
     dispatch('create', {
-        component: CreateCollectionForm
+        component: CreateItemForm
     })
 }
 </script>

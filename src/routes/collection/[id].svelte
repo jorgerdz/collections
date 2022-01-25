@@ -11,24 +11,21 @@
 </script>
 
 <script>
-	import CollectionHero from '/src/lib/CollectionHero.svelte'
-	import OptionSelector from '/src/lib/OptionSelector.svelte'
-	import Grid from '/src/lib/Grid.svelte'
-	import DropDetector from "/src/lib/DropDetector.svelte"
+	import CollectionHero from '$lib/components/CollectionHero.svelte'
+	import OptionSelector from '$lib/components/OptionSelector.svelte'
+	import Grid from '$lib/components/Grid.svelte'
+	import DropDetector from "$lib/components/DropDetector.svelte"
 	import Modal from 'svelte-simple-modal';
-	import CreateCollectionForm from '$lib/CreateCollectionForm.svelte';
-	import {createItems} from '/src/lib/stores.js'
-	import { browser } from '$app/env';
+	import {items as store} from '$lib/utils/stores.js'
 	import { writable } from 'svelte/store';
 	
 	export let collection;
-	export let items = createItems(collection.items)
-	
+	export let items = store(collection.items)
+
 	const modal = writable(null);
-	$: console.log(collection) //write record here
+	$: console.log(collection) // persist record here
 	
 	function showModal(event) {
-		console.log('showing')
 		modal.set(event.detail.component);
 	}
 </script> 
@@ -38,7 +35,7 @@
 	<Modal show={$modal} />
 	<OptionSelector on:create={showModal} bind:columns={collection.columns} bind:ordered={collection.ordered} bind:dark={collection.dark} />
 	<DropDetector />
-	<Grid on:edit={showModal} ordered={collection.ordered} items={items} columns={collection.columns} dark={collection.dark} />
+	<Grid on:edit={showModal} ordered={collection.ordered} {items} columns={collection.columns} dark={collection.dark} />
 
 </div>
 

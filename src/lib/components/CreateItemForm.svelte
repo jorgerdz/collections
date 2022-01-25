@@ -1,12 +1,11 @@
 <script>
-    import {createItems} from './stores'
-    const {add} = createItems();
+    import {items} from '$lib/utils/stores'
+    const {add} = items();
     export let item = {
         img: ''
     }
     const submit = function() {
         console.log('submitting', item)
-        debugger
         add(item)
     }
 </script>
@@ -42,6 +41,9 @@
     }
     .form-section {
         flex: auto;
+    }
+    img {
+        max-width: 100%;
     }
     @media (max-width: 650px) {
         .form-section {
